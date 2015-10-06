@@ -6,12 +6,12 @@ description: "Photography for industry and science."
 # url: http://www.greenshoots.co.uk/
 
 # github
-baseurl: "/greenshoots/"
-url: http://elliz.github.io/greenshoots/
+# baseurl: "/greenshoots/"
+# url: http://elliz.github.io/greenshoots/
 
 # live
-# baseurl: "/"
-# url: http://www.greenshoots.co.uk/
+baseurl: "/"
+url: http://www.greenshoots.co.uk/
 
 include: ['_redirects']
 relative_permalinks: false
